@@ -1,0 +1,9 @@
+.table {
+    border-style: double;
+    border-radius: 5px;
+    margin: 50px 0 50px;
+}
+
+.container {
+    padding: 15px;
+}
